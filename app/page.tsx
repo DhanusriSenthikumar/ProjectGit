@@ -11,6 +11,10 @@ export default function Home() {
   <Link href="/state">Go to state page</Link>
   <Link href="/effect">Go to effect page</Link>
   <Link href="/counterapp">Go to counter page</Link>
+  <Link href="/asynawait">Go to api handling using async and wait</Link>
+  <Link href="/contextuseage">Go to context usage page</Link>
+  <Link href="/refusage">Go to ref usage page</Link>
+  <Link href="/usememousage">Go to usememo page</Link>
   </>
 
   );
